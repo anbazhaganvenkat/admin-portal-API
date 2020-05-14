@@ -1,5 +1,5 @@
 {
-  "name": "marketplace-api",
+  "name": "admin-api",
   "version": "1.0.0",
   "private": true,
   "scripts": {
